@@ -53,6 +53,11 @@ ESP32-S3 (WROOM-1-N16R8), 4.2-inch 400x300 reflective LCD (ST7305), ES8311 audio
 temperature and humidity sensor, battery support.
 [Product page](https://www.waveshare.com/esp32-s3-rlcd-4.2.htm)
 
+## Waveshare ESP32-S3-ePaper-1.54G
+
+ESP32-S3 with a 1.54-inch 4-color e-paper panel (200×200, red/yellow/black/white), button, battery support, and USB-C.
+[Product page](https://www.waveshare.com/esp32-s3-epaper-1.54g.htm)
+
 ## Waveshare RP2350-Touch-AMOLED-1.8
 
 The same 368x448 touch AMOLED shell as the ESP32-S3 board, on an RP2350 instead. Present
