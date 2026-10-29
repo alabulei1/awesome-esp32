@@ -191,6 +191,13 @@ the dual-USB ESP32-2432S028 looks almost identical, so count the USB sockets.
 Classic ESP32 with 8 MB flash behind a 1.54-inch 240x240 ST7789 IPS screen, a capacitive touch pad on top of the case, and USB-C for power only (no USB data), so firmware goes on over the stock firmware's Wi-Fi update page.
 [Product page](https://geekmagic.com/products/geekmagic-ultra)
 
+## VibeKeys Max
+
+ESP32-S3 with octal PSRAM, SPI LCD, I2S microphone, custom keys and a rotary knob in a
+wireless desk keypad; Wi-Fi for remote mode and OTA updates, settings written over Web
+Bluetooth.
+[Product page](https://vibekeys.dev/vibekeys-max.html)
+
 ## No single device
 
 These projects name no device, and inventing one would misrepresent them. What each takes
